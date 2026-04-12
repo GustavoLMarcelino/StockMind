@@ -62,9 +62,9 @@ A estrutura poderá evoluir conforme o desenvolvimento da solução, mas a propo
 
 ```text
 StockMind/
-├── data/              # Base de dados para análise e treinamento
-├── notebooks/         # Exploração, tratamento e análise dos dados
-├── models/            # Modelos preditivos treinados
-├── src/               # Código-fonte principal da aplicação
-├── docs/              # Documentação do projeto
-└── README.md          # Documentação principal
+├── data/              # Dados para análise e treinamento
+├── notebooks/         # Exploração e análise
+├── models/            # Modelos preditivos
+├── src/               # Código principal
+├── docs/              # Documentação
+└── README.md          
