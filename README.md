@@ -52,7 +52,7 @@ O projeto foi pensado para um contexto real de operação comercial, considerand
 - Dependência excessiva de observação manual
 - Dificuldade em transformar dados em decisões práticas
 
-Nesse cenário, o StockMind busca atuar como uma ferramenta de apoio, oferecendo uma abordagem mais analítica e inteligente para a gestão de estoque.
+Dessa forma, o projeto busca não apenas automatizar processos, mas também apoiar decisões estratégicas com base em dados, reduzindo a dependência de intuição e aumentando a eficiência operacional.
 
 ---
 
